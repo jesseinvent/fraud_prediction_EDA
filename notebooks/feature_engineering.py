@@ -8,7 +8,6 @@ from datetime import datetime
 from pathlib import Path
 from enum import Enum
 
-BASE_DIR = Path(__file__).resolve().parent.parent
 
 class TransactionType(Enum):
     LIGHTNING_INVOICE = "lightning_invoice"
