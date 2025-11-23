@@ -13,4 +13,4 @@ Accurately classify and predict a fraud and not fraud transaction with at least 
 - Extracting latent feature from trained encoders.
 - Calculating reconstruction error.
 - Combine derived latent features and reconstruction error into the main derived dataset for more accurate classification.
-- Retraining supervised learning models final combined datasets.
+- Retrain all supervised learning models using final combined datasets.
