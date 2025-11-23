@@ -6,11 +6,11 @@ Accurately classify and predict a fraud and not fraud transaction with at least 
 - Performed Basic EDA on transaction datasets.
 - Derived features from datasets.
 - Multicollinearity (VIF) check and Feature Importance using RandomForest.
-- Supervised models training and evaluation.
+- Supervised learning models training and evaluation.
 - Neural networks training and evaluation.
 - Dimensionality Reduction and Feature Extraction using PCA and tSNE.
 - Using Autoencoders for Anomaly Detection only on non-fraud transactions.
 - Extracting latent feature from trained encoders.
 - Calculating reconstruction error.
-- Combining derived latent features and reconstruction error into the main derived dataset for more accurate classification.
-- Training supervised learning models all final datasets.
+- Combine derived latent features and reconstruction error into the main derived dataset for more accurate classification.
+- Retraining supervised learning models final combined datasets.
